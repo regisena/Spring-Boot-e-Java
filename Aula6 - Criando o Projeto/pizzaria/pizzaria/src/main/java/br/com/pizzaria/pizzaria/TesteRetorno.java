@@ -10,6 +10,6 @@ public class TesteRetorno {
 
 	@GetMapping
 	public String testeRetorno() {
-		return "Olá, este é o retorno do teste";
+		return "Olá, este é o retorno do teste.";
 	}
 }
